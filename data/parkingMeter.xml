@@ -1,0 +1,10 @@
+<parkingMeter>
+	<parkingLots>
+		<parkingLot identifier="01"/>
+		<parkingLot identifier="02"/>
+	</parkingLots>
+	
+	<parkingDurations>
+		<parkingDuration durationInMinutes="30" currency="CHF" amount="100"/>
+	</parkingDurations>
+</parkingMeter>
